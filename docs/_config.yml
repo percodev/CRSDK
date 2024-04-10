@@ -1,5 +1,5 @@
 title: ClientReader SDK
 description: SDK для работы с настольным считывателем компании PERCo
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
